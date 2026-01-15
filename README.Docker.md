@@ -15,7 +15,7 @@ you'll want to build the image for that platform, e.g.:
 
 Then, push it to your registry, e.g. `docker push myregistry.com/myapp`.
 
-Consult Docker's [getting started](https://docs.docker.com/go/get-started-sharing/)
+Consult Docker's [getting started](https://docs.docker.com/get-started/04_sharing_app/)
 docs for more detail on building and pushing.
 
 ### References
